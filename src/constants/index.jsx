@@ -24,37 +24,37 @@ export const testimonials = [
     user: "John Doe",
     company: "Stellar Solutions",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "Eu estou extremamente satisfeito com o serviço ofericido. O time foi responsável, profissional, e entregou resultados além das minhas expectativas.",
   },
   {
     user: "Jane Smith",
     company: "Blue Horizon Technologies",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "Eu não poderia estar mais feliz com o resultado do nosso projeto. A criatividade e a habilidade de resolução de problemas do time foram fundamentais para trazer vida a nossa visão.",
   },
   {
     user: "David Johnson",
     company: "Quantum Innovations",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "Foi um prazer trabalhar com essa compania. Sua atenção aos detalhes e o compromisso com a excelência é louvável. Eu facilmente os recomendaria para qualquer um que estivesse procurando um serviço de primeira linha.",
   },
   {
     user: "Ronee Brown",
     company: "Fusion Dynamics",
     image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "Trabalhar com o time na Compania XYZ foi uma visão de jogo para o nosso projeto. Sua atenção aos detalhes e soluções inovadoras nos ajudaram a alcançar nossos objetivos mais rápidos do que pensamos que era possível. Somos gratos pela sua especialidade e profissionalismo!",
   },
   {
     user: "Michael Wilson",
     company: "Visionary Creations",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "Estou maravilhado com o nivel de profissionalismo e dedicação mostrados pelos time. eles foram capazes de exceder nossas expectativas e entregar resultados fora do comum.",
   },
   {
     user: "Emily Davis",
     company: "Synergy Systems",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "O time foi acima e além para garantir o sucesso do nosso projeto. Suas especializações e dedicação são incomparáveis. Espero trabalhar novamente com eles no futuro.",
   },
 ];
 
