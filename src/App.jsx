@@ -11,12 +11,12 @@ const App = () => {
     <>
       <Navbar />
       <div className="max-w-7xl mx-auto pt-20 px-6">
-        <HeroSection />
-        <FeatureSection />
-        <WorkFlow />
-        <Pricing />
-        <Testimonials />
-        <Footer />
+        <section id="hero"><HeroSection /></section>
+        <section id="feature"><FeatureSection /></section>
+        <section id="workflow"><WorkFlow /></section>
+        <section id="pricing"><Pricing /></section>
+        <section id="testimonial"><Testimonials /></section>
+        <section id="footer"><Footer /></section>
       </div>
       
   </>

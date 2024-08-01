@@ -13,10 +13,10 @@ import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
 
 export const navItems = [
-  { label: "Features", href: "#" },
-  { label: "Workflow", href: "#" },
-  { label: "Pricing", href: "#" },
-  { label: "Testimonials", href: "#" },
+  { label: "Recursos", href: "#feature" },
+  { label: "Workflow", href: "#workflow" },
+  { label: "Planos", href: "#pricing" },
+  { label: "Avaliações", href: "#testimonial" },
 ];
 
 export const testimonials = [
@@ -61,118 +61,118 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    text: "Interface Drag-and-Drop",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Projete e organize facilmente seus ambientes de RV com uma interface fácil de manusear.",
   },
   {
     icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    text: "Multiplataforma Compatível",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Crie aplicativos de VR que funcionam perfeitamente em diversas plataformas, incluindo dispositivos móveis, Desktops e headsets de VR.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    text: "Templates Built-in",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "Inicie seus projetos de VR com uma variedade de modelos integrados para diferentes tipos de aplicativos e ambientes.",
   },
   {
     icon: <BatteryCharging />,
-    text: "Real-Time Preview",
+    text: "Pré-visualização",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "Visualize seu aplicativo de VR em tempo real conforme você faz alterações, permitindo iterações e ajustes rápidos.",
   },
   {
     icon: <PlugZap />,
-    text: "Collaboration Tools",
+    text: "Ferramentas de Colaboração",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "Trabalhe junto com sua equipe em tempo real em seus projetos, permitindo uma colaboração perfeita e compartilhamento de ideias.",
   },
   {
     icon: <GlobeLock />,
-    text: "Analytics Dashboard",
+    text: "Dashboard Analítica",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "Obtenha informações valiosas sobre as interações e o comportamento do usuário em seus aplicativos de VR com um painel analítico integrado.",
   },
 ];
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Mesclagem de código facilitada",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Integre alterações de código de forma rápida e sem conflitos com nossa solução simples e eficiente.",
   },
   {
-    title: "Review code without worry",
+    title: "Revise o código sem se preocupar",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Nossa ferramenta permite uma revisão de código tranquila e eficiente, garantindo qualidade sem estresse.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "Assistência IA para reduzir o tempo",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      " Acelere processos com nossa tecnologia de IA, economizando tempo e aumentando a produtividade.",
   },
   {
-    title: "Share work in minutes",
+    title: "Compartilhe em minutos.",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Compartilhe informações rapidamente, sem demora, com nossa solução ágil e eficiente.",
   },
 ];
 
 export const pricingOptions = [
   {
-    title: "Free",
+    title: "Grátis",
     price: "$0",
     features: [
-      "Private board sharing",
-      "5 Gb Storage",
-      "Web Analytics",
-      "Private Mode",
+      "Compartilhamento privado",
+      "Armazenamento de 5GB",
+      "Análise Web",
+      "Modo Privado",
     ],
   },
   {
     title: "Pro",
     price: "$10",
     features: [
-      "Private board sharing",
-      "10 Gb Storage",
-      "Web Analytics (Advance)",
-      "Private Mode",
+      "Compartilhamento privado",
+      "Armazenamento de 10GB",
+      "Análise Web (Avançada)",
+      "Modo Privado",
     ],
   },
   {
-    title: "Enterprise",
+    title: "Empresarial",
     price: "$200",
     features: [
-      "Private board sharing",
-      "Unlimited Storage",
-      "High Performance Network",
-      "Private Mode",
+      "Compartilhamento privado",
+      "Armazenamento Ilimitado",
+      "Rede de Alta Performance",
+      "Modo Privado",
     ],
   },
 ];
 
 export const resourcesLinks = [
-  { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
+  { href: "#", text: "Introdução" },
+  { href: "#", text: "Documentação" },
+  { href: "#", text: "Tutorial" },
+  { href: "#", text: "Referência de API's" },
+  { href: "#", text: "Fórum da Comunidade" },
 ];
 
 export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
+  { href: "#", text: "Recursos" },
+  { href: "#", text: "Dispositivos Suportados" },
+  { href: "#", text: "Requisitos do Sistema" },
   { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+  { href: "#", text: "Notas de Atualização" },
 ];
 
 export const communityLinks = [
-  { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
+  { href: "#", text: "Eventos" },
+  { href: "#", text: "Encontros" },
+  { href: "#", text: "Conferências" },
   { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "#", text: "Trabalhos" },
 ];

@@ -6,10 +6,10 @@ const HeroSection = () => {
     return (
         <div className="flex flex-col items-center mt-6 lg:mt-20">
             <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
-                VirtualR build tools
+                VirtualR ferramentas de criação desenvolvida
                 <span className="bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text">
                     {" "}
-                    for developers
+                    para Devs
                 </span>
             </h1>
             <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
@@ -19,10 +19,10 @@ const HeroSection = () => {
             </p>
             <div className="flex justify-center my-10">
                 <a href="#" className="bg-gradient-to-r from-orange-500 to-orange-800 
-                py-3 px-4 mx-3 rounded-md">
-                    Start for free
+                py-3 px-4 mx-3 rounded-md border border-transparent hover:border-orange-500 hover:bg-none">
+                    Comece agora!
                 </a>
-                <a href="#" className="py-3 px-4 mx-3 rounded-md border">
+                <a href="#" className="py-3 px-4 mx-3 rounded-md border border-orange-500 hover:bg-gradient-to-r hover:from-orange-500 hover:to-orange-800 transition duration-200">
                     Documentação
                 </a>
             </div>
