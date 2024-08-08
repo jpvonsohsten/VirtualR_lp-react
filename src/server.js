@@ -4,10 +4,10 @@ import sql from 'mssql';
 import bodyParser from 'body-parser';
 
 const dbConfig = {
-  user: 'joao.magalhaes',
-  password: '1232@@Jm2112@@Jm',
-  server: '10.31.2.94',
-  database: 'TI',
+  user: '*****',
+  password: '*****',
+  server: '*****',
+  database: '*****',
   options: {
     encrypt: true,
     trustServerCertificate: true
